@@ -1,0 +1,14 @@
+echo "# Cardio_Covid Exploratory Data Analysis (EDA)" > README.md
+echo "" >> README.md
+echo "This repository contains the EDA process performed on cardio and Covid(s) using Python." >> README.md
+echo "" >> README.md
+echo "## Project Structure" >> README.md
+echo "- **data/**: Contains datasets in CSV or other formats." >> README.md
+echo "- **notebooks/**: Jupyter notebooks for performing exploratory analysis." >> README.md
+echo "- **scripts/**: Python scripts for data processing and cleaning." >> README.md
+echo "- **requirements.txt**: Pandas, Numpy, CSV." >> README.md
+
+git remote add origin https://github.com/echooed/cardio_cov_EDA_Project.git
+
+
+
