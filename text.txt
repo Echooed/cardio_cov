@@ -8,7 +8,7 @@ echo "- **notebooks/**: Jupyter notebooks for performing exploratory analysis." 
 echo "- **scripts/**: Python scripts for data processing and cleaning." >> README.md
 echo "- **requirements.txt**: Pandas, Numpy, CSV." >> README.md
 
-git remote add origin https://github.com/echooed/cardio_cov_EDA_Project.git
+git remote add origin https://github.com/echooed/cardio_cov.git
 
 
 
