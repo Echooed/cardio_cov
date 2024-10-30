@@ -5,5 +5,5 @@ This repository contains the EDA process performed on cardio and Covid(s) using 
 ## Project Structure
 - **data/**: Contains datasets in CSV or other formats.
 - **notebooks/**: Jupyter notebooks for performing exploratory analysis.
-- **scripts/**: Python scripts for data processing and cleaning.
-- **requirements.txt**: Pandas, Numpy, CSV.
+- **scripts/**: scripts for installing enviroments
+- **requirements.txt**: modules and package requirement for project
